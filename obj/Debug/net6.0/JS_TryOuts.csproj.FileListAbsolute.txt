@@ -1,0 +1,15 @@
+C:\Users\sudha\JS_TryOuts\bin\Debug\net6.0\JS_TryOuts.exe
+C:\Users\sudha\JS_TryOuts\bin\Debug\net6.0\JS_TryOuts.deps.json
+C:\Users\sudha\JS_TryOuts\bin\Debug\net6.0\JS_TryOuts.runtimeconfig.json
+C:\Users\sudha\JS_TryOuts\bin\Debug\net6.0\JS_TryOuts.dll
+C:\Users\sudha\JS_TryOuts\bin\Debug\net6.0\JS_TryOuts.pdb
+C:\Users\sudha\JS_TryOuts\obj\Debug\net6.0\JS_TryOuts.csproj.AssemblyReference.cache
+C:\Users\sudha\JS_TryOuts\obj\Debug\net6.0\JS_TryOuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudha\JS_TryOuts\obj\Debug\net6.0\JS_TryOuts.AssemblyInfoInputs.cache
+C:\Users\sudha\JS_TryOuts\obj\Debug\net6.0\JS_TryOuts.AssemblyInfo.cs
+C:\Users\sudha\JS_TryOuts\obj\Debug\net6.0\JS_TryOuts.csproj.CoreCompileInputs.cache
+C:\Users\sudha\JS_TryOuts\obj\Debug\net6.0\JS_TryOuts.dll
+C:\Users\sudha\JS_TryOuts\obj\Debug\net6.0\refint\JS_TryOuts.dll
+C:\Users\sudha\JS_TryOuts\obj\Debug\net6.0\JS_TryOuts.pdb
+C:\Users\sudha\JS_TryOuts\obj\Debug\net6.0\JS_TryOuts.genruntimeconfig.cache
+C:\Users\sudha\JS_TryOuts\obj\Debug\net6.0\ref\JS_TryOuts.dll
